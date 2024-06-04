@@ -1,0 +1,10 @@
+freertos.c:102:6:HAL_UART_RxCpltCallback	1
+freertos.c:107:6:HAL_UART_TxCpltCallback	1
+freertos.c:112:6:f_zero	2
+freertos.c:123:6:z_zero	3
+freertos.c:138:6:stop_f	1
+freertos.c:148:6:autofocus	17
+freertos.c:288:6:MX_FREERTOS_Init	1
+freertos.c:340:6:StartDefaultTask	1
+freertos.c:360:6:CommTask	6
+freertos.c:396:6:BtnReadTask	23

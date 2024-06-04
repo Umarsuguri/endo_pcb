@@ -1,0 +1,10 @@
+../Core/Src/freertos.c:102:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/freertos.c:107:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/freertos.c:112:6:f_zero	8	static
+../Core/Src/freertos.c:123:6:z_zero	8	static
+../Core/Src/freertos.c:138:6:stop_f	8	static
+../Core/Src/freertos.c:148:6:autofocus	24	static
+../Core/Src/freertos.c:288:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:340:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:360:6:CommTask	24	static
+../Core/Src/freertos.c:396:6:BtnReadTask	16	static
